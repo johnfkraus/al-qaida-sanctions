@@ -85,7 +85,7 @@ Network = function () {
     nodesG = viz.append("g")
       .attr("id", "nodes");
 
-    //  setup the size of the force environment
+``    //  setup the size of the force environment
     force.size([width, svgHeight]);
     setLayout("force");
     setFilter("all");

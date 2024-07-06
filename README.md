@@ -40,3 +40,4 @@ https://www.un.org/securitycouncil/sanctions/1267/aq_sanctions_list)
 
 [Wikipedia: United Nations ISIL (Da'esh) and Al-Qaida Sanctions Committee](https://en.wikipedia.org/wiki/ISIL_(Da%27esh)_and_Al-Qaida_Sanctions_Committee)
 
+[Al-Qaeda: A Defeated Threat? Think Again, November 2023, warontherocks.com](https://warontherocks.com/2023/11/al-qaeda-a-defeated-threat-think-again/)
