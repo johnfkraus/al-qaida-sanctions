@@ -1,0 +1,1505 @@
+commit 75de4d2a03d3fa1d2131375a60561ffae480413f
+Author: jk <johnkraus3@gmail.com>
+Date:   Sat Jul 6 14:22:33 2024 -0400
+
+    misc
+
+commit 81fb17b95145dade65f61bee91e0442af70b14b2
+Author: jk <johnkraus3@gmail.com>
+Date:   Sat Jun 29 17:59:04 2024 -0400
+
+    clean up summary files
+
+commit 91c2d8ab3298e22f0664650b20e51bfbc0f9cdf1
+Author: jk <johnkraus3@gmail.com>
+Date:   Sat Jun 29 17:37:17 2024 -0400
+
+    clean up Qde.168
+
+commit 2d7708f471b0316d7767a4b98d29d0493c745ffe
+Author: jk <johnkraus3@gmail.com>
+Date:   Sat Jun 29 17:15:23 2024 -0400
+
+    clean up
+
+commit 6fec7c5851978f504611ebd001756c6e751ef9d6
+Author: jk <johnkraus3@gmail.com>
+Date:   Sat Jun 29 17:13:48 2024 -0400
+
+    clean up images, webflow
+
+commit 05c4829dfc30fc1450ca4834fdfbd5b229d1d537
+Author: jk <johnkraus3@gmail.com>
+Date:   Mon Jun 24 18:12:18 2024 -0400
+
+    added bug
+
+commit be54a0fd88480eeb3dac9972d5b5615911c7a04e
+Author: jk <johnkraus3@gmail.com>
+Date:   Mon Jun 24 18:05:24 2024 -0400
+
+    added screenshots
+
+commit 729f3ad4ef93f0e4cc414591d1acb58edbc55eda
+Author: jk <johnkraus3@gmail.com>
+Date:   Fri Jun 21 20:17:12 2024 -0400
+
+    cleanup formatting 2
+
+commit 181ec66fcd53ebcb6757f924e0fe76c45539a5a4
+Author: jk <johnkraus3@gmail.com>
+Date:   Fri Jun 21 17:59:55 2024 -0400
+
+    cleanup formatting
+
+commit f2f4423fde624f290360bdf0800b7efa86f4fbc3
+Author: jk <johnkraus3@gmail.com>
+Date:   Fri Jun 21 17:53:26 2024 -0400
+
+    updated readme
+
+commit 6b42dc34eee92979f95a436b7ab2f3b0c8662700
+Author: jk <johnkraus3@gmail.com>
+Date:   Fri Jun 21 17:31:02 2024 -0400
+
+    cleanup
+
+commit 68016d45f26b749ec2c6a6913b4948591f124876
+Author: jk <johnkraus3@gmail.com>
+Date:   Fri Jun 21 10:09:43 2024 -0400
+
+    wip mouseover link
+
+commit a9ebf3e6195fd06253f2c315f014233297519d9a
+Author: jk <johnkraus3@gmail.com>
+Date:   Thu Jun 20 20:57:51 2024 -0400
+
+    update
+
+commit 87ffbb8f58eb8f349213b12e4defebd522c8e781
+Author: jk <johnkraus3@gmail.com>
+Date:   Thu Jun 20 20:51:23 2024 -0400
+
+    cleanup
+
+commit 3ab0857d1bf754c4a24b7a17313af04bb027bae8
+Author: jk <johnkraus3@gmail.com>
+Date:   Thu Jun 20 18:13:29 2024 -0400
+
+    updates
+
+commit 4395c60d1ce387e7b85df9f87e7a422d05a532cc
+Author: jk <johnkraus3@gmail.com>
+Date:   Thu Jun 20 08:26:08 2024 -0400
+
+    added new bug
+
+commit b36f7e60ad370e4a042cc2d8c240e043d592ac3e
+Author: jk <johnkraus3@gmail.com>
+Date:   Thu Jun 20 08:23:26 2024 -0400
+
+    handle no summary narrative found error
+
+commit bef511fabe8f02d508db15737dc8d016906ad284
+Author: jk <johnkraus3@gmail.com>
+Date:   Thu Jun 20 08:07:15 2024 -0400
+
+    fix missing aqsa mahmood
+
+commit 15888699e66c2aa70a82b76c87dcf683d4060b27
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 19 17:54:35 2024 -0400
+
+    added updated databricks code
+
+commit b14c59d1415cb162a8b6e9334ddde0d8039280e5
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 19 17:36:35 2024 -0400
+
+    now showing individual DOB and place of birth
+
+commit f7a0e76a6719dad919c15ef3be8f9bc1876a66ef
+Author: jk <johnkraus3@gmail.com>
+Date:   Tue Jun 18 20:35:30 2024 -0400
+
+    can hide menu 2
+
+commit 8d64bbcc13c621a46dba80bdaf1532bd6ef5c8fa
+Author: jk <johnkraus3@gmail.com>
+Date:   Tue Jun 18 20:18:04 2024 -0400
+
+    can hide menu
+
+commit 4d72adb4ad5b138ccad4e065f0b1bf1cdfe6bb05
+Author: jk <johnkraus3@gmail.com>
+Date:   Tue Jun 18 08:56:25 2024 -0400
+
+    cleanup
+
+commit 0d1effbaba2f5592ca3865bca75f8dd0afe2f2a9
+Author: jk <johnkraus3@gmail.com>
+Date:   Mon Jun 17 10:06:15 2024 -0400
+
+    deleted backup file
+
+commit 79654c9ed456d90132f9d0cc917b441f992e3122
+Author: jk <johnkraus3@gmail.com>
+Date:   Mon Jun 17 09:56:34 2024 -0400
+
+    updated readme
+
+commit 3dee8eba17b284cc715365488eb09b5706b61e36
+Author: jk <johnkraus3@gmail.com>
+Date:   Mon Jun 17 09:46:11 2024 -0400
+
+    cleanup
+
+commit 7c52affbd791b5c77876acd294c522b53cfea4f5
+Author: jk <johnkraus3@gmail.com>
+Date:   Mon Jun 17 09:28:09 2024 -0400
+
+    added png icon for closing info box 2
+
+commit 9b8a0d9a56ffc400722f01e5a9038c567ad830ca
+Author: jk <johnkraus3@gmail.com>
+Date:   Mon Jun 17 09:26:39 2024 -0400
+
+    added png icon for closing info box
+
+commit c66901f4e4bc8b40e0fffe49f4ca23a688eb6a65
+Author: jk <johnkraus3@gmail.com>
+Date:   Thu Jun 13 12:29:09 2024 -0400
+
+    updated readme2
+
+commit 4b745cf86b7be5c097327ab6675536342a60a429
+Author: jk <johnkraus3@gmail.com>
+Date:   Thu Jun 13 12:28:19 2024 -0400
+
+    updated readme
+
+commit a14465629dc04b82ea32d598f7317581ff08b33a
+Author: jk <johnkraus3@gmail.com>
+Date:   Thu Jun 13 12:27:03 2024 -0400
+
+    updated links in readme
+
+commit 21fc28ef6cc216ec5356f3e20a1e3e4f51aef3a9
+Author: jk <johnkraus3@gmail.com>
+Date:   Thu Jun 13 12:19:38 2024 -0400
+
+    updated screenshot image
+
+commit 1eac499bfcdfdfefc8e3d365071386ca44ad784b
+Author: jk <johnkraus3@gmail.com>
+Date:   Thu Jun 13 11:27:42 2024 -0400
+
+    removed duplicate shtml files
+
+commit 9f8128ab8c86f1ce62d1b63a9e86c7edda2c4753
+Author: jk <johnkraus3@gmail.com>
+Date:   Thu Jun 13 11:25:16 2024 -0400
+
+    removed display none from index.html
+
+commit 89cca14ab7dc64ae0fe22c2a29832a7a12a63130
+Author: jk <johnkraus3@gmail.com>
+Date:   Thu Jun 13 11:21:03 2024 -0400
+
+    more shtml files 2
+
+commit e3d3fc9aa5e7f62a196130979bfa29a44b8acc9f
+Author: jk <johnkraus3@gmail.com>
+Date:   Thu Jun 13 11:19:12 2024 -0400
+
+    more shtml files
+
+commit 4bbac7dcc0060aa354678d94c825c8818a4a2828
+Author: jk <johnkraus3@gmail.com>
+Date:   Thu Jun 13 10:24:58 2024 -0400
+
+    cleanup 345
+
+commit f52cea174824bf870d366b819f00c0976bf0748d
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 12 16:55:33 2024 -0400
+
+    cleanup
+
+commit d3cfb8dbd1cf12d0041bc2efa725a2d900972a85
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 12 16:29:03 2024 -0400
+
+    cleanup
+
+commit 2a02abf9a559eb544510e8ba7130d38f12e9e971
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 12 15:28:05 2024 -0400
+
+    cleanup
+
+commit 8e319e1325c6544f2383f2e3ea800b5077bb2474
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 12 15:16:31 2024 -0400
+
+    cleanup
+
+commit e7ec6ffbee126a426c3a30afb61c8f8c5e4016d7
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 12 12:40:00 2024 -0400
+
+    misc
+
+commit 9400186f1d880b07337821a2d490a7328eafe759
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 12 11:28:15 2024 -0400
+
+    revised narr summary parsing
+
+commit 987818f9f15933001abd08d8ca1e00db22cae1cd
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 12 10:52:46 2024 -0400
+
+    cleanup 35
+
+commit 272572e9195bf796b24f6258c63f51d2e86fa47e
+Author: jk <johnkraus3@gmail.com>
+Date:   Tue Jun 11 20:51:42 2024 -0400
+
+    added todos 3
+
+commit 9dd731a5e1edc14cdf530a3117d0e7dae61256ca
+Author: jk <johnkraus3@gmail.com>
+Date:   Tue Jun 11 20:48:18 2024 -0400
+
+    added todos 2
+
+commit 3ad7a84118769f7fc8ad38cb972b2c8908d63ce0
+Author: jk <johnkraus3@gmail.com>
+Date:   Tue Jun 11 20:46:42 2024 -0400
+
+    added todos
+
+commit 9e169d6feaf37b64d630dc6c42c3051c95c93774
+Author: jk <johnkraus3@gmail.com>
+Date:   Tue Jun 11 20:44:53 2024 -0400
+
+    removed summary from json
+
+commit 38ef5ff4463e9fb10905053e75b83961df5b1e87
+Author: jk <johnkraus3@gmail.com>
+Date:   Tue Jun 11 14:05:30 2024 -0400
+
+    added spreadsheet
+
+commit f6dfc1ca1bd8f43b559c71c679f8d2a43c5a9f73
+Author: jk <johnkraus3@gmail.com>
+Date:   Tue Jun 11 14:03:42 2024 -0400
+
+    create data2.json with summary html
+
+commit bfc32327593d526647b5db6932d3359a810d39bd
+Author: jk <johnkraus3@gmail.com>
+Date:   Tue Jun 11 13:42:33 2024 -0400
+
+    created summaries
+
+commit b32f930875c9528562ed60fabed068ab690cf0f9
+Author: jk <johnkraus3@gmail.com>
+Date:   Tue Jun 11 12:32:52 2024 -0400
+
+    narr summaries parsing
+
+commit dc01ff9d9a9f7e7c20bac9553e29d8c775cf79de
+Author: jk <johnkraus3@gmail.com>
+Date:   Mon Jun 10 18:01:11 2024 -0400
+
+    cleanup
+
+commit 6dc9159ac156f17644b518b78c752863fdf4ba36
+Author: jk <johnkraus3@gmail.com>
+Date:   Mon Jun 10 15:28:46 2024 -0400
+
+    updated screenshots
+
+commit 5dca8be01c64f45e1dc92bf4fa5deb5777c79abd
+Author: jk <johnkraus3@gmail.com>
+Date:   Mon Jun 10 15:23:27 2024 -0400
+
+    improved link counts
+
+commit 80d48287544277973e6d55123ec3a9e43c3b8f80
+Author: jk <johnkraus3@gmail.com>
+Date:   Mon Jun 10 13:07:26 2024 -0400
+
+    added favicon 2
+
+commit eede93f9ac4218a8844e323d5a7b1f84cba25547
+Author: jk <johnkraus3@gmail.com>
+Date:   Mon Jun 10 12:56:03 2024 -0400
+
+    added favicon
+
+commit 8badaf2a18844a122ac37bf159e14ef64438d01d
+Author: jk <johnkraus3@gmail.com>
+Date:   Mon Jun 10 12:15:05 2024 -0400
+
+    delete unwanted directories
+
+commit 3a660479739650a55b0ffb6fd64da4d3c7f5c412
+Author: jk <johnkraus3@gmail.com>
+Date:   Mon Jun 10 12:07:59 2024 -0400
+
+    finished
+
+commit 92cb7cf28bf21c620476bf27469593eca358a0ff
+Author: jk <johnkraus3@gmail.com>
+Date:   Mon Jun 10 10:29:57 2024 -0400
+
+    fixes to filtering, search
+
+commit 9179772924cec22fd64ef1664c6728ee0c525278
+Author: jk <johnkraus3@gmail.com>
+Date:   Mon Jun 10 10:29:06 2024 -0400
+
+    modified javascript for filtering new ID format
+
+commit e834aaa5c743600bad125c471f19895e8fdd281a
+Author: jk <johnkraus3@gmail.com>
+Date:   Mon Jun 10 10:28:16 2024 -0400
+
+    back up data directory
+
+commit 8a2939b601addc123704d70ec83c5585ac0709cf
+Author: jk <johnkraus3@gmail.com>
+Date:   Sun Jun 9 17:46:02 2024 -0400
+
+    cleanup22
+
+commit 501155c51f4ebe09e652fc3c17c4f28349623920
+Author: jk <johnkraus3@gmail.com>
+Date:   Sun Jun 9 17:42:39 2024 -0400
+
+    cleanup
+
+commit b6692d4f9dc01f7a7a33ab3f8b2ab386a8923b32
+Author: jk <johnkraus3@gmail.com>
+Date:   Sun Jun 9 17:39:29 2024 -0400
+
+    adding data, links to narr summary
+
+commit 1cf9a8e7a85e7ba9b464bafc6b975556228b881a
+Author: jk <johnkraus3@gmail.com>
+Date:   Sun Jun 9 09:58:55 2024 -0400
+
+    creating summary files with beautiful soup
+
+commit 42db48c48c161bc0a720c9d1ab124ee5f9b4afa4
+Author: jk <johnkraus3@gmail.com>
+Date:   Sun Jun 9 09:54:25 2024 -0400
+
+    creating summary files with beautiful soup
+
+commit 475cc0722873df9054f638ce71b41cc6849ef3ca
+Author: jk <johnkraus3@gmail.com>
+Date:   Sat Jun 8 15:28:54 2024 -0400
+
+    new data.js
+
+commit 52e066413587e2718cc9762d4ad4d5743b728785
+Author: jk <johnkraus3@gmail.com>
+Date:   Fri Jun 7 17:45:29 2024 -0400
+
+    new xml data
+
+commit 25541db0d9bcd30f0af6bfd4d64461bf130d4049
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 5 12:39:30 2024 -0400
+
+    cleanup
+
+commit eface8c20dcac18305ad786e70cb0be3b09e657a
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 5 12:22:16 2024 -0400
+
+    cleanup
+
+commit 11651cfe94b45040237de6e821f5e84aac08c2e9
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 5 12:18:43 2024 -0400
+
+    cleanup
+
+commit 5dd2e2cc4030354ea8c8ee25304514f5a7234f7c
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 5 12:16:35 2024 -0400
+
+    moved data archives to archivs
+
+commit 08640b0a5b9656c8c03f89e9f5ebb30890a47faa
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 5 12:15:42 2024 -0400
+
+    removed archives
+
+commit c16323f97635fb01d880b6eb6741854219252e65
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 5 12:13:38 2024 -0400
+
+    cleanup 9
+
+commit 58baa6fb8d479ddd78feaec21467c78563f76eb6
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 5 11:59:30 2024 -0400
+
+    cleanup
+
+commit 9396d90be667dc48a3937a0384e9e15324a7f16a
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 5 11:49:56 2024 -0400
+
+    cleanup 8
+
+commit d486462a9c0a935ff0546457e65cced10d3cf5c4
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 5 11:39:21 2024 -0400
+
+    cleanup
+
+commit 043c9510e00d0d875cf4b3910d97ac8f2691427b
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 5 10:44:45 2024 -0400
+
+    updated readme
+
+commit b17de98c0c61ab2c6afedd3b183bec3f50c23d44
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 5 10:43:30 2024 -0400
+
+    cropped image
+
+commit d6b64985ab7fb5bf68864b18244ecdaaa8e53926
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 5 10:40:25 2024 -0400
+
+    moved images into images directory
+
+commit 09a60fee7596800274dd2a248104d6278fcb580e
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 5 10:22:35 2024 -0400
+
+    updated metadata
+
+commit aaaa16306016f1e0e0940d0f92b4ee2ffad4083c
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 5 10:20:44 2024 -0400
+
+    updated readme
+
+commit 1ae7c8f3b9afa0fc215fc0c0c6ae676c6ad2f6cc
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 5 10:19:14 2024 -0400
+
+    added xml link to readme
+
+commit 7087972b42128137339fa1edbbc5c00a4d112dea
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 5 10:17:05 2024 -0400
+
+    added link to legacy xml file
+
+commit 2586721458bca00b5728d31ddf061c8bbc1c3de1
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 5 10:11:23 2024 -0400
+
+    cleanup 6
+
+commit 046c578830437c356aeffa860f8925bd62abf512
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 5 10:00:09 2024 -0400
+
+    updated UN urls
+
+commit 2ef467fefdd668e231e802e63822d38bd576544e
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 5 09:54:46 2024 -0400
+
+    updated README.md 2
+
+commit 1aedd165e657a71d9fb23f7df6d20f2471acb337
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 5 09:40:31 2024 -0400
+
+    updated README.md
+
+commit 315ee3d7401a11c96568b479bdbe0d312df5e6ea
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 5 09:35:30 2024 -0400
+
+    adding image to markdown README
+
+commit 08abd897e7a033f7896b211842a997a757064a5e
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 5 09:32:56 2024 -0400
+
+    copied README file to markdown format
+
+commit 8ee5b339435d07614b960e5c0f05c01f80af5b12
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Jun 5 09:30:05 2024 -0400
+
+    cleanup 5
+
+commit d44218377445de58ba42a8763f5b04caea201d1d
+Author: jk <johnkraus3@gmail.com>
+Date:   Sun Jun 2 13:02:25 2024 -0400
+
+    added webflow resources
+
+commit 98a88ec4909729f725d4349d52a5ad196c184e63
+Author: jk <johnkraus3@gmail.com>
+Date:   Sun Jun 2 07:36:06 2024 -0400
+
+    changed generated to published
+
+commit 36f67ad9502b132d75cd494832be935af76c0453
+Author: jk <johnkraus3@gmail.com>
+Date:   Sun Jun 2 07:29:40 2024 -0400
+
+    cleanup 4
+
+commit 4536cb40b2a220bd60c0bfc31dbbecc530510a73
+Author: jk <johnkraus3@gmail.com>
+Date:   Sun Jun 2 07:13:48 2024 -0400
+
+    cleanup 3
+
+commit 91575af4aa2141fed6b2d26d20e2c9fae4873b67
+Author: jk <johnkraus3@gmail.com>
+Date:   Sat Jun 1 21:18:40 2024 -0400
+
+    cleanup 2
+
+commit 036a90e67e489897c333b071cd2554a0dc1e2203
+Author: jk <johnkraus3@gmail.com>
+Date:   Sat Jun 1 17:25:06 2024 -0400
+
+    updated default settings
+
+commit 7c76bd8d2a35bc51a6b07bb74e4f94cd47fb4d68
+Author: jk <johnkraus3@gmail.com>
+Date:   Sat Jun 1 17:21:39 2024 -0400
+
+    updated package.json
+
+commit a579de88076fe30c293d2cdfae9f72716db88a02
+Author: jk <johnkraus3@gmail.com>
+Date:   Sat Jun 1 17:17:05 2024 -0400
+
+    cleanup
+
+commit 88d4f26aad1feb20212c2ef37b45c030deaa1cb9
+Author: jk <johnkraus3@gmail.com>
+Date:   Sat Jun 1 16:01:35 2024 -0400
+
+    updated readme
+
+commit da97e80bc9912381000d79ab332fdc1f02745895
+Author: jk <johnkraus3@gmail.com>
+Date:   Sat Jun 1 15:58:10 2024 -0400
+
+    deployed on digital ocean using domain name from namecheap.com 2
+
+commit c5547d035721cf8b3f9c9570ff92dcce52ab6968
+Author: jk <johnkraus3@gmail.com>
+Date:   Sat Jun 1 15:56:39 2024 -0400
+
+    deployed on digital ocean using domain name from namecheap.com
+
+commit c6d2e35c0d5edf592c70b3d2080aa47917962c7b
+Author: jk <johnkraus3@gmail.com>
+Date:   Sat Jun 1 09:33:08 2024 -0400
+
+    cleanup
+
+commit 9273f49aa814c036e1fa682b75809bf687dd9d02
+Author: jk <johnkraus3@gmail.com>
+Date:   Sat Jun 1 09:02:54 2024 -0400
+
+    replaced escaped double quotes in data.js with escaped single quotes
+
+commit d987ef5d32392ee03c38a9666ea78dcb2ff60f9f
+Author: John Kraus <johnfkraus@users.noreply.github.com>
+Date:   Fri Mar 22 08:18:07 2024 -0400
+
+    Update README.textile
+
+commit f9d409955a8af3277d1328d7747a91ffa14001f8
+Author: jk <johnkraus3@gmail.com>
+Date:   Tue Sep 26 07:58:46 2023 -0400
+
+    update
+
+commit 2e0e7e0ab4b9e0ea168d1e1c0de4897753974264
+Author: jk <johnkraus3@gmail.com>
+Date:   Sun Aug 20 09:46:12 2023 -0400
+
+    updated node, npm
+
+commit 850b97427dc2b952f79d5d79203f0c6d0ea73775
+Merge: be246061 f6fa9967
+Author: jk <johnkraus3@gmail.com>
+Date:   Sat Aug 19 17:28:39 2023 -0400
+
+    Merge branch 'debug-index-html'
+
+commit f6fa9967f5a3f8b72b013ba76baa418f74b7eb4e
+Author: jk <johnkraus3@gmail.com>
+Date:   Sat Aug 19 17:28:05 2023 -0400
+
+    updated npm node versions
+
+commit be246061d0b8881fdee5ff651aadffe961c80061
+Author: John Kraus <johnfkraus@users.noreply.github.com>
+Date:   Sat Aug 19 17:23:09 2023 -0400
+
+    Create NOTES.md
+
+commit 3ad9a009fb4c7e161e6d7ad038ae024947834dbd
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed May 3 11:54:02 2023 -0400
+
+    debugging
+
+commit c07b3ef9332c2a166b802ad4bd83d17508efb0ba
+Author: jk <johnkraus3@gmail.com>
+Date:   Fri Apr 7 07:04:19 2023 -0400
+
+    updated data.html
+
+commit 2b08411764c8633398a5c71f3b7d6f0a2d8ff376
+Author: jk <johnkraus3@gmail.com>
+Date:   Fri Apr 7 07:02:45 2023 -0400
+
+    loading data.json file into data.html
+
+commit c34e168ac027b1860792a7c3cd297c40b59b3fc0
+Author: jk <johnkraus3@gmail.com>
+Date:   Fri Apr 7 06:15:36 2023 -0400
+
+    updated readme
+
+commit 9e092b2191a5f13b7d15b7381c314610e0b7f97e
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Apr 5 14:02:16 2023 -0400
+
+    package-lock, gitlab-ci.yml
+
+commit d7a93d8c804f71ce61cdf5f9637e65f7718593ce
+Author: jk <johnkraus3@gmail.com>
+Date:   Wed Apr 5 13:56:41 2023 -0400
+
+    updated to run in 2023
+
+commit e6d01516bb75f075e3bd01955a48b4b440c7f939
+Author: John Kraus <johnfkraus@users.noreply.github.com>
+Date:   Sun Feb 19 11:30:17 2023 -0500
+
+    Update README.textile
+
+commit 0c41d393ddb0b970c57ef988e10427b82d747209
+Author: John Kraus <johnfkraus@users.noreply.github.com>
+Date:   Sun Feb 19 11:28:11 2023 -0500
+
+    Update README.textile
+
+commit 2a9d2bbada655bd37550ad9a715f47f7adf2467b
+Author: John Kraus <johnfkraus@users.noreply.github.com>
+Date:   Sun Feb 19 11:26:51 2023 -0500
+
+    Updated URL
+
+commit c5b59b0066c0b69ad478bfe9f479d100dbea8dbd
+Author: John Kraus <john@johnfkraus.com>
+Date:   Mon Nov 11 09:33:10 2019 -0500
+
+    updated readme
+
+commit 638a9b14fce64958f3b7524ed408e8d2467ba77d
+Merge: 67650edc ee425281
+Author: John Kraus <john@johnfkraus.com>
+Date:   Mon Nov 11 09:32:28 2019 -0500
+
+    Merge branch 'develop'
+
+commit ee4252812b7c2fe1dddf241e3b85357e0a2a0210
+Author: John Kraus <john@johnfkraus.com>
+Date:   Mon Nov 11 09:29:53 2019 -0500
+
+    updated README.textile, added image
+
+commit 5aa52199d6a57e4e50017296894eb3c9aed071da
+Author: John Kraus <john@johnfkraus.com>
+Date:   Mon Nov 11 09:19:23 2019 -0500
+
+    added screenshot to readme file
+
+commit 9b36c73cca971e0a804db0d1a6a0844cb7da6809
+Author: John Kraus <john@johnfkraus.com>
+Date:   Mon Nov 11 09:15:09 2019 -0500
+
+    misc
+
+commit 67650edc59c4cf3f5de2500d84c1b8241b16a4f5
+Author: John Kraus <john@johnfkraus.com>
+Date:   Mon Oct 14 08:26:25 2019 -0400
+
+    Update README.textile
+
+commit 321b7d7f634cb8814f992e1deb39281d0da4dfce
+Author: John Kraus <johnkraus3@gmail.home>
+Date:   Thu Aug 22 13:51:17 2019 -0400
+
+    updated jquery to counter vulnerability identified by github
+
+commit 9486e5d1a11b0104a1a2b3c15cfc48800c4fe955
+Author: John Kraus <johnkraus3@gmail.home>
+Date:   Thu Aug 22 13:49:13 2019 -0400
+
+    updated readme
+
+commit 8faa7277a69890c9cf967f4d0e1f0e06104f9d33
+Author: John Kraus <johnkraus3@gmail.home>
+Date:   Thu Aug 22 13:41:16 2019 -0400
+
+    added link to readme screen shot; intelli updates
+
+commit b93e47bba813555ca15ab5d4779b05ebf568f383
+Author: John Kraus <johnkraus3@gmail.home>
+Date:   Thu Aug 22 13:35:31 2019 -0400
+
+    update readme file with screenshot link
+
+commit 37bc563f553fa09dd026832c06b9d09b9eecb1dd
+Merge: 6099d121 fd71f0c8
+Author: John Kraus <johnkraus3@gmail.home>
+Date:   Thu Aug 22 13:34:16 2019 -0400
+
+    Merge branch 'master' of https://github.com/johnfkraus/aq-list-viz
+
+commit 6099d121c05fabd735b615d00a79829b61427942
+Author: John Kraus <johnkraus3@gmail.home>
+Date:   Thu Aug 22 13:34:02 2019 -0400
+
+    added screen shot of web page
+
+commit fd71f0c8b9b4ece61e28f24aa08a2767f7ed06b1
+Author: John Kraus <john@johnfkraus.com>
+Date:   Thu Aug 22 12:42:25 2019 -0400
+
+    Create see_johns_notes.secret.docx
+
+commit 269a6f342e60b52089eafef37cf2dd11a043ad40
+Author: John Kraus <john@johnfkraus.com>
+Date:   Thu Aug 22 12:41:32 2019 -0400
+
+    Delete johns_notes.secret.docx
+
+commit 63bc0572a0297ee77ff21414526a1f3b81aab5bc
+Author: John Kraus <johnfkraus@users.noreply.github.com>
+Date:   Wed Oct 7 07:54:32 2015 -0400
+
+    Update README.textile
+
+commit e70308fc5d7d720338f6f0b2865e2c35316516c7
+Author: John Kraus <johnfkraus@users.noreply.github.com>
+Date:   Wed Oct 7 07:34:03 2015 -0400
+
+    Update README.textile
+
+commit 38d7bb13eb592e3857e7a16f48cfeb95c34abd49
+Author: John Kraus <johnfkraus@users.noreply.github.com>
+Date:   Wed Oct 7 07:33:12 2015 -0400
+
+    Update README.textile
+
+commit 2ca38df209c72a83a6a88b8496838640d4506074
+Author: John Kraus <johnfkraus@users.noreply.github.com>
+Date:   Wed Oct 7 07:32:41 2015 -0400
+
+    Update README.textile
+    
+    added link to heroku deployment
+
+commit f447161983f75ee4ec935fe8b6a72b6e3f3a8b5d
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sun Mar 1 14:05:07 2015 -0500
+
+    new project for un sanc
+
+commit e0fdcdb7ef32e797fe12a0ecc57d2d7b74f73a0a
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sun Mar 1 13:32:28 2015 -0500
+
+    un id scheme has changed; move to full un consol list of parties subject to sanction
+
+commit 84f116173775f660b39d54af1cca3f17e845ba79
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sun Mar 1 13:31:17 2015 -0500
+
+    un changed id number scheme; expect to expand this project to encompass the entire UN consolidated list of parties subject to sanction.
+
+commit 05aeb37b87095d53d331b29d594bf0b50c7ece48
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sat Feb 28 12:00:21 2015 -0500
+
+    renamed archives
+
+commit d507ed10f20072118207838b28145307ffbd4e55
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sat Feb 28 11:58:50 2015 -0500
+
+    adding archives3
+
+commit 0abdd214e009f7898f3c6fb4990489200a72768c
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sat Feb 28 11:56:15 2015 -0500
+
+    save the archives
+
+commit 4cc1b37c957e6605dbdfe7a87174f7d4c6aa3258
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sat Feb 28 11:55:19 2015 -0500
+
+    the un has changed their numbering system for sanctioned parties!!
+
+commit f74ee08bc92ac0265d62725ee77ff1dedb2e14ea
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Feb 27 09:41:56 2015 -0500
+
+    collecting narratives for created nodes not listed on the two html lists
+
+commit 43fbbeb3faa4c872428439a225cac370d5fb8258
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Thu Feb 26 14:25:11 2015 -0500
+
+    create nodes for links that have nonexistent target nodes
+
+commit 884fbea79d503e9d18b69acb3361c5deaa5d22c6
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Tue Feb 24 06:58:57 2015 -0500
+
+    fixing node radius adjustability
+
+commit 7a050d3761956b9296112ab49ba1146b5ed4fbf1
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sun Feb 22 14:09:19 2015 -0500
+
+    USING links from narratives; counting of links is broken
+
+commit eef2127ab7ad0793e74b9f4418e390a757fccd7d
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sat Feb 21 08:56:48 2015 -0500
+
+    minor update
+
+commit 338b1d1bd62b843a98495e1183412dbd3996c8c8
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sat Feb 21 07:09:05 2015 -0500
+
+    optimized imports
+
+commit 7e8fa8ef721752690b2cd9f72ea79fd526b4419f
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sat Feb 21 06:58:24 2015 -0500
+
+    more cleanup, logging
+
+commit 3570adc195fcf9ca007b7dd8e4f92c5feff98a93
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sat Feb 21 06:23:16 2015 -0500
+
+    clean up
+
+commit b0d7b541272f8c47c454da758dc50a67d76b4240
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sat Feb 21 05:34:56 2015 -0500
+
+    tweak logging
+
+commit 9322c83dd801881d081d980cd259e7ca66ca161a
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Feb 20 17:09:33 2015 -0500
+
+    clean up logging
+
+commit da944feb5ddc63f9c0bce70b286ef3c7f932fc9e
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Feb 20 16:40:30 2015 -0500
+
+    working except problem with logging
+
+commit c3be4bc3181c3bee148aadbccf5089549fe686dc
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Feb 20 10:42:42 2015 -0500
+
+    update
+
+commit 034b95702c7277e92cd055bb0a92deac9ec009be
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Feb 20 09:31:08 2015 -0500
+
+    clean up logging
+
+commit 1fb78aa77fb9b7f6fa9f94052d3b603b3a4f9b4f
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Wed Feb 18 18:34:21 2015 -0500
+
+    push tracer
+
+commit 23ad0eab5123e8ff543cc942202bb88ab6a3eff4
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Wed Feb 18 18:33:59 2015 -0500
+
+    added npm tracer for logging
+
+commit ab7d925cf86a5555016c7a2b6eb7b52cf565e034
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Tue Feb 17 19:20:55 2015 -0500
+
+    fixed weird characters in narratives
+
+commit 38f9ca40cc9f9ac8141608512a995df6f6e5648a
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Tue Feb 17 14:23:23 2015 -0500
+
+    .gitignore is now working
+
+commit c8ebaaa3401589d478caa97b3713176c1a38f494
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Tue Feb 17 14:22:38 2015 -0500
+
+    about to remove files that should be gitignored
+
+commit 46b36fb359fb32fd55e1d3be973f2f3ac569f5da
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Tue Feb 17 14:07:24 2015 -0500
+
+    added node_modules to .gitignore
+
+commit c750815c3f751cee76b080119c5f7c95a7c95db5
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Tue Feb 17 11:16:35 2015 -0500
+
+    updated package.json author
+
+commit a95f74e0b18f2efea6073903f554f51e1724b984
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Tue Feb 17 11:06:33 2015 -0500
+
+    cleanup before deployment attempt on heroku
+
+commit 3e3627849d7916f643172e0a6e33871eda675334
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Mon Feb 16 17:28:21 2015 -0500
+
+    pkg json
+
+commit a81ac2f24928bf72d88e887cc3c66b94b4b656a0
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Mon Feb 16 16:47:29 2015 -0500
+
+    npm update, install, added node engine and version, updated package.json
+
+commit 0485d799e76749867ec62612cab416d31ce89dc1
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Mon Feb 16 16:27:52 2015 -0500
+
+    collect.js working, shows narrative file text; links still derived from comments, not narratives, needs legend for nationality colors
+
+commit a5d26a9ba1815c17dcf49c105283d85a1fe58893
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sun Feb 15 15:36:41 2015 -0500
+
+    collect.js mostly fixed
+
+commit a5c21abcfe3b0b9728625f1388a12ef1c56c128c
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sat Feb 14 12:30:28 2015 -0500
+
+    combinng collect.js, setupData1.js and  getNarrativeList.js into a single file, collect.js
+
+commit 7ea53ae9104f8d3285d41c86cd47c4cf724a691e
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Wed Feb 11 07:41:31 2015 -0500
+
+    combinng collect.js, setupData1.js and  getNarrativeList.js into a single file, collect.js
+
+commit c5910e4637c1dfa2a48de87c72c8f54a491063dc
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Tue Feb 10 07:11:36 2015 -0500
+
+    generating missing narrative file names in getNarrativeList.js
+
+commit 53123a333c4489730bc479cb4e84b415bc968fd1
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Tue Feb 10 06:56:19 2015 -0500
+
+    working up through narrative_links (from comments)
+
+commit ae671149be9af808679f337055295b3e017adae7
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Mon Feb 9 05:58:32 2015 -0500
+
+    first: collect links from comments in setupData1; then collect links from narratives in setupData2--2
+
+commit 2feaa7cf6a95d2d4d6726a99df14dc45c27db7d3
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Mon Feb 9 05:47:08 2015 -0500
+
+    first: collect links from comments in setupData1; then collect links from narratives in setupData2
+
+commit f6329a9088bbdf1b4794445daa3d2905b6dbda47
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sun Feb 8 15:14:39 2015 -0500
+
+    added setupdata2
+
+commit 5eb3bcb18e668917c0b8b1a89fdc84168817067f
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sun Feb 8 15:14:27 2015 -0500
+
+    added setupdata2
+
+commit c5638c8a067f075ef87ba6e58052bf227fe2bf93
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sun Feb 8 13:59:37 2015 -0500
+
+    setupData1.js to parse Narrative files, collect links, in progress
+
+commit 9e5ac6e849b622606bc7f513d4d30d28dbed4a1b
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Thu Feb 5 14:02:08 2015 -0500
+
+    fixing long narratives; generate filenames for narrative is missing from downloaded list;
+
+commit 0823790fb2e9b161af3b888f15aa9f701021ed38
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Wed Feb 4 20:23:19 2015 -0500
+
+    connected longer narratives to gui
+
+commit 9fb626a92b4501a6c6baefca8b6510f890486802
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Mon Feb 2 15:48:03 2015 -0500
+
+    fixing mongodb narrs
+
+commit 4dfe5afe96b9f494aa867589db2087164b0a4164
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Mon Feb 2 08:05:42 2015 -0500
+
+    git config --global push.default matching
+
+commit 3e63bcce82afd9c6f16a9bc2e66b30be5658a2e9
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sun Feb 1 14:02:00 2015 -0500
+
+    added mongo code 3
+
+commit f834a07f828d2ca30d619410c0a80d615c9b2d04
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sun Feb 1 13:55:39 2015 -0500
+
+    mongodb code added for narrative sample
+
+commit 415793ca68fb040dcd329677d40c66fb6387dec8
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Jan 30 05:47:50 2015 -0500
+
+    cleanup
+
+commit 2b08e32bbe8b4cab2131a95f4e861d394e64c237
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Jan 30 05:37:09 2015 -0500
+
+    collect narratives, save to local file is fixed, next: save to mongodb
+
+commit a0d0fd336e6259be7d3968afd81fd41e5b9998e7
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Thu Jan 29 10:07:31 2015 -0500
+
+    updating collection of narratives, saving to local files; willl add mongodb
+
+commit 8bb4c2fc154ceeb1926b820f0400f00c7db9bbd0
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Tue Jan 27 16:56:13 2015 -0500
+
+    add mongodb to save narratives
+
+commit 2f3209b1517d3a5f28ad29cb05c42d72d3351b7c
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sat Jan 24 10:06:16 2015 -0500
+
+    assembling all stages of etl
+    trying to restore links between nodes
+
+commit f393b95085bc1820727dcbded0bd272462b6ee4a
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Wed Jan 21 07:34:08 2015 -0500
+
+    narratives added to data structure in collectNarratives.js
+
+commit dfce627e2ff5f11c054958e350aa50b1ef5c2868
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sat Jan 17 16:37:53 2015 -0500
+
+    fixing collect long narrs
+
+commit ec5abc6e7c354bd8354a576106b42ad1c5d05d8a
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sat Jan 17 16:36:49 2015 -0500
+
+    added collect narratives before make docs
+
+commit a28bb171072cc89686da9858f326347343254214
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sat Jan 10 11:52:29 2015 -0500
+
+    added collect narratives before make docs
+
+commit 75f45c9c50383afb639cedd9c2b8c0cdb79f18b3
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Jan 9 19:02:34 2015 -0500
+
+    long delayed commit
+
+commit 2c407d6eadf85b809fa1ab768251f5527fdeb7b8
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sat Dec 27 08:58:41 2014 -0500
+
+    added express module, added index.js
+
+commit a3dca001dc32a977574aa51ff9cfd59dee58e328
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Dec 26 22:08:18 2014 -0500
+
+    deleted archives
+
+commit d0744bbd6003a2e7884e35efc9f6e1dbe6729e4a
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Dec 26 21:34:48 2014 -0500
+
+    deleted lastfm
+
+commit cd86cf98e8112dfbec722994c44d584910fa25b4
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Dec 26 19:08:16 2014 -0500
+
+    update
+
+commit 07718894c99f83e2fe5fd4283209a089553755da
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Dec 26 19:06:17 2014 -0500
+
+    update
+
+commit f018d086524a7b24e8f615f3ebd4cc25a71bddcd
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Dec 26 18:52:59 2014 -0500
+
+    update
+
+commit 4a0ca2c03d3dd8448b8d0f9a9ebb300b23749150
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Dec 26 18:24:59 2014 -0500
+
+    updateing
+
+commit 199d0d3413eec10772920afe70d855d7bc1895ef
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Dec 26 18:03:19 2014 -0500
+
+    collecting narratives, update for heroku
+
+commit 031174370b1f9be6001d5ddefadf6c399771d111
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Mon Dec 22 13:50:53 2014 -0500
+
+    collecting narratives
+
+commit 8069f91fec00918e9abab15436562c4ce53ceaad
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sun Dec 21 16:30:41 2014 -0500
+
+    busted, saving narrative files, need output filename
+
+commit e06e765dbaab315a79be442c0781da6bcdf6536f
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sun Dec 21 12:12:53 2014 -0500
+
+    collecting narratives
+
+commit 0701432ca597d81520949d3cfb960f9a398f5028
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sun Dec 21 09:53:53 2014 -0500
+
+    cleaned up narrative lists collection
+
+commit 5bba76841aff76107cd3fbb79553028922cf4884
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sun Dec 21 07:28:42 2014 -0500
+
+    collecting indivs links to narratives
+
+commit 4fef50b32aa9f4dd70f8efbc5d0d4ca456bb052c
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Dec 19 10:56:18 2014 -0500
+
+    clean up console.log statements
+
+commit 2c858090c66127e1b5a67fd007f21f714e9f2a9e
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Dec 19 10:08:02 2014 -0500
+
+    cleaned up doc output
+
+commit 397a647f04fcf5f9716f644d2a1cbbcaf48e7898
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Thu Dec 18 15:27:51 2014 -0500
+
+    added dates updated
+
+commit f1a5621b9e1f107b95800b3859106ce890404461
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Thu Dec 18 13:23:18 2014 -0500
+
+    displays aliases
+
+commit afbcca7840cb0dc389b0aaef3971ccbd4b9940d3
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Thu Dec 18 11:49:28 2014 -0500
+
+    delete pdf
+
+commit 6d3f08f7864e690a0f361da5b2a025de96901f64
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Thu Dec 18 11:48:32 2014 -0500
+
+    doc-close button works, is positioned correctly
+
+commit 8408c42620ac6b322156f122bbc66c64bdb5981a
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Wed Dec 17 10:13:31 2014 -0500
+
+    unclick no longer list now returns you to "name" based colors
+
+commit 4812c22ce8c62e679c3f9877005b3e901b5c786a
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Wed Dec 17 07:31:52 2014 -0500
+
+    fixing indiv date of birth string
+
+commit d385a25fafae6b98f1d54fb8b51e4d40db59e357
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Tue Dec 16 06:53:58 2014 -0500
+
+    nationality drop-down works
+
+commit 580974532cfa6f53677d41d16065a369695bca78
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sun Dec 14 06:16:00 2014 -0500
+
+    styling for the docs 3
+
+commit 8fb9cacfb6ab202b10cacc166847a679cab2ef2a
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sat Dec 13 09:10:27 2014 -0500
+
+    updated keys
+
+commit 03c0d6e85b2ec5b41e888c8d7b6500544116fecd
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sat Dec 13 08:35:44 2014 -0500
+
+    not much
+
+commit 6ae21f53a23fd2c5605708c4865739e2908b9705
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sat Dec 13 08:26:55 2014 -0500
+
+    clean up docs, style
+
+commit 3787c2109d4c53015cb55665948e196b4f770b2d
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sat Dec 13 08:06:45 2014 -0500
+
+    styling for the docs
+
+commit e1a2b39ac332d3b22ada83ce4d66a8021f0eade4
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Dec 12 14:15:51 2014 -0500
+
+    fixed close docs
+
+commit a6a3b251ab96b63bee439b94b17c5f64f961716d
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Dec 12 13:57:42 2014 -0500
+
+    fixed doc hide, etc.
+
+commit b48e3b8a84f5228b9ef154ac1a206989f240240a
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Wed Dec 10 08:25:30 2014 -0500
+
+    cleaning up json data structure
+
+commit ab8c604b3f5e572b8165a624e862187d8f79af1b
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Tue Dec 9 08:50:28 2014 -0500
+
+    link counts corrected
+
+commit d443549999f2f68003dd51ea5bd89636a9e16c5e
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Tue Dec 9 05:41:56 2014 -0500
+
+    working; restore mouseover
+
+commit 9836d0b6ce2fff79e2d7e7ed60e847efc25e8490
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Dec 5 08:49:19 2014 -0500
+
+    added docs
+
+commit 9e15677d9612a68d4d1e3333584a8ebd3bcf155f
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Tue Dec 2 08:57:17 2014 -0500
+
+    fixing docs on  click circle
+
+commit 1584f0be15c8a1bc8ecf5554851392fc933e07ce
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Tue Dec 2 08:56:54 2014 -0500
+
+    fixing docs on  click circle
+
+commit e6a2d522b5472b336fda4abbfecba740f2302583
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Tue Dec 2 07:15:15 2014 -0500
+
+    fixing docs on  click circle
+
+commit b19d2a4c699d7776b124c57b87873adf9f05c3e3
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Tue Dec 2 07:14:55 2014 -0500
+
+    fixing docs on  click circle
+
+commit 08a4c66e7d772faa277155271fcf76234f69f442
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Tue Dec 2 07:14:09 2014 -0500
+
+    fixing docs on  click circle
+
+commit 24fbe7619218debd943a42bf8a7a81396be87d9b
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Mon Dec 1 07:11:19 2014 -0500
+
+    npm install bag
+
+commit 19791bea8086da15299f2fc6dcc39234facbc44f
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Sun Nov 30 13:36:52 2014 -0500
+
+    data structures
+
+commit fe03d39de927bbce35c655d567880e572ca7153b
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Nov 28 15:19:52 2014 -0500
+
+    deleted some files
+
+commit 74de1a1daf1c4f6b40e8f974421ef8e3ecce1eda
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Nov 28 14:34:38 2014 -0500
+
+    deleted some files
+
+commit 6c8662cd04f4b18c76d842941e843a6a3169845a
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Nov 28 08:26:19 2014 -0500
+
+    deleted some files
+
+commit 03b98e2f28026457b4a00aac4b2a86ff0f885d81
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Nov 28 08:23:40 2014 -0500
+
+    update gitignore
+
+commit dbdad365a92c29fadfc39ead763314701803d4e5
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Nov 28 08:21:21 2014 -0500
+
+    cleaned up, renamed files, archived
+
+commit 30a9b0798e45d3d3d7516a5037bf6b08e780f7e8
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Nov 28 07:52:02 2014 -0500
+
+    added underscore.js dev annotated version
+
+commit 471bcd34f893ab8cbe0f7fbd3a4835b9522c5746
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Fri Nov 28 07:14:57 2014 -0500
+
+    revision for heroku
+
+commit 49fda09f9f5387df6fd1a48819b80c0f0de83f71
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Thu Nov 27 19:51:48 2014 -0500
+
+    clean up missing ents indivs
+
+commit 0e2320783cd3efee2c7053570a2785c8b9f024d7
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Thu Nov 27 15:07:04 2014 -0500
+
+    push changes, colors working
+
+commit 6d6fabcf5861e444d7f85df7276e68dc85ac0395
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Wed Nov 26 17:10:19 2014 -0500
+
+    debugging json logic
+
+commit 54a531b767810aa7577f8aa5913797a3d46329f2
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Wed Nov 26 10:04:00 2014 -0500
+
+    collect
+
+commit b65dbbbaa3c876d8ed05720f3589dafce76aca59
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Wed Nov 26 09:00:21 2014 -0500
+
+    test push
+
+commit 0b4e4a0dae416c01a9cbbfb7916cf691ac50c6c0
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Wed Nov 26 08:57:45 2014 -0500
+
+    5thnd init
+
+commit e64e2dfde50461b54c614237a13cb2e57aff0f68
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Wed Nov 26 08:47:17 2014 -0500
+
+    init 4
+
+commit ede5b6c3b82f4dff3b38d9dd37b3d0e994151475
+Author: johnfkraus <johnkraus3@gmail.com>
+Date:   Wed Nov 26 08:35:25 2014 -0500
+
+    initial commit
