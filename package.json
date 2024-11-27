@@ -27,7 +27,7 @@
     "json-patch": "^0.5.0",
     "markdown": "^0.5.0",
     "markdown-js": "^0.0.3",
-    "npm": "^9.8.1",
+    "npm": "^10.8.1",
     "object-inspect": "^1.0.0",
     "request-enhanced": "^0.1.1",
     "sync-request": "^1.0.1",
