@@ -33,7 +33,7 @@
     "sync-request": "^1.0.1",
     "tracer": "0.7.3",
     "urllib-sync": "",
-    "xml2js": "^0.4.4",
+    "xml2js": "^0.5.0",
     "xml2json": "^0.5.1"
   },
   "engines": {
