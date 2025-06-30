@@ -12,7 +12,7 @@ By hovering your mouse pointer over a graph node you can view a tooltip identify
 
 ![Hover over a node](./images/nusrat.png)
 
-Click on a graph node to see additional details regarding the sanction entity at the bottom of the screen.
+Click on a graph node to see additional details regarding the sanctioned entity at the bottom of the screen.
 
 ![Click on a node](./images/al-qaida-sanctions-rouine.png)
 
